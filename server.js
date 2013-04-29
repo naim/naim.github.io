@@ -1,4 +1,8 @@
 var connect = require('connect');
-connect.createServer(
-        connect.static(__dirname)
-).listen(8080);
+
+var app = connect()
+    .use(connect.logger('dev'))
+    .use(connect.static(__dirname))
+    .use(connect.directory(__dirname));
+
+connect.createServer(app).listen(8080);
