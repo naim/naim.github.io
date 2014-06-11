@@ -5,44 +5,52 @@
 
 <title>Naim Falandino</title>
 
-<link rel="stylesheet" type="text/css" href="lib/bootstrap/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="lib/bootstrap/dist/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 
-<script type="text/javascript" src="lib/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="lib/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="lib/bootstrap/dist/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="lib/underscore/underscore-min.js"></script>
 <script type="text/javascript" src="lib/backbone/backbone-min.js"></script>
 <script type="text/javascript" src="lib/d3/d3.min.js"></script>
-<script type="text/javascript" src="lib/bootstrap/bootstrap/js/bootstrap.min.js"></script>
 
 </head>
 <body>
 
 <div class="container-fluid" style="margin-top:12px;">
-<div class="row-fluid">
 
-<div class="offset2 span4">
+<div class="row">
+
+<div class="col-xs-offset-2 col-xs-4">
     <div class="media">
         <span class="pull-left" style="margin-top:8px;">
             <img src="http://www.gravatar.com/avatar/151af1219c7aa4dd300f20dd57fe0cd9.png" alt="" class="img-rounded" />
         </span>
         <div class="media-body">
             <h2 class="media-heading">Naim Falandino</h2>
-            <p class="lead" style="line-height:23px;">Chief Data Scientist @ DeepField, dev/hacker, researcher, and electronic musician. I &hearts; code &amp; data.</p>
+            <p class="lead" style="line-height:23px;">Chief Data Scientist @ <a href="http://www.deepfield.com" target="_blank">DeepField</a>, dev/hacker, researcher, and electronic musician. I <span style="color:#dd2e44">&hearts;</span> code &amp; data.</p>
         </div>
     </div>
-    <div class="tweets">
+</div>
+
+<div class="col-xs-4 text-center" style="margin-top:40px;">
+    <p class="lead">Currently rebuilding my web presence.</p>
+    <p>For now keep an eye on my Twitter feed.</p>
+</div>
+
+</div>
+
+<div class="row tweets">
+
+    <div class="col-xs-offset-4 col-xs-4">
         <!-- Twitter Widget -->
         <a class="twitter-timeline" href="https://twitter.com/naim" data-widget-id="328720755200245761">Tweets by @naim</a>
         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
     </div>
-</div>
-
-<div class="span4" style="margin-top:44px;text-align:center;">
-    Currently rebuilding all of my web sites.<br>For now keep an eye on my Twitter feed.
-</div>
 
 </div>
-</div>
+
+</div> <!-- container -->
 
 </body>
 </html>
