@@ -162,3 +162,7 @@ gulp.task('build', ['lint', 'html', 'images', 'fonts', 'extras'], () => {
 gulp.task('default', ['clean'], () => {
   gulp.start('build');
 });
+
+gulp.task('dist', ['build'], () => {
+  return gulp.src('dist/**/*').pipe(gulp.dest('../'));
+});
