@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/naim
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://imna.im
+  * I am naim (https://keybase.io/naim) on keybase.
+  * I have a public key with fingerprint AF2B FE98 8153 1284 AD41  7297 30CF 14DD C069 EEDA
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012007c6e1ed502861e55509c9db52769affce6e903ec32d03e3341d1cdd490171ac0a",
+      "fingerprint": "af2bfe9881531284ad41729730cf14ddc069eeda",
+      "host": "keybase.io",
+      "key_id": "30cf14ddc069eeda",
+      "kid": "010188d51304093f59cc6a3d09e9a38d2c1c427313bcaa8973e7b06f20324dd8f4c40a",
+      "uid": "c733290426e4ff828d07e7a6f1efca19",
+      "username": "naim"
+    },
+    "service": {
+      "hostname": "imna.im",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1512757775,
+  "expire_in": 157680000,
+  "prev": "4e392d530864d7edda040fcca91cdfbbb884f5104c9eb6a5b2342b2888eb2eb7",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNvAnicbVJrTBRXFF4QaMsjQKwltBHa8VGVBWbuvBcLtYiQSG3VhKAQlnncgQH2
+4e7sUhQIJMUtptCywQK1a4ECprWgYKQ+QKURVEoURJpKpSQVlZLysI0PWtJ2hui/
+3j8n99zv+853zj2Xg1bo/L3QGy9PXJLnxr1+6Kt26PZuGg8+gPAWsQgxHEDy4XKA
+BSK0K8Z8WUQMCIoBFKUFCmJQJFHAUBgkSRJlBVbkSUBTLCdJAqQgi+JQwIGoBhwn
+MBETRJFgUYzGOAHlED0iyeYcaLPaZLOiynIS4CXIMgxG4hhgCE4kMBqwNI4KEkaI
+ooBSLISiRsy12DWGao7n7DBGtqg59WJctvc/+Oe+UYxhRBLDUQJlcYlkBYHicBFl
+IcvhjAgETCAAjWM4L3Aco1aGNI9SEkBxoOoxEiEQy74dy3ICjeOARQlAQUKSGMCI
+KA1pjpIwKAkcxmpAO7SZORNU0WZONiElekTNOGUBakPVunj2KpvMXIwK0CNWm0Wx
+CJYCNZmrKFaDxlGKrBqoEPLGZ3QjL5tFdXoqwQltdtliRgyYihQUWdPDSAzQJE3T
+pB6BH1hlGzTKGoKkKQZVj1YGOlVJAuIsEEkcZShCpKEocupoJEHgWPWzJJ7nGYaQ
+SAwlBBbyFEfyACcADxiGgTyAPI1oDe0zWxADIFSfXI6qaZdzzJzisEGk5Pu+TB+d
+l7/Oz9dbWyud/0shz5dtw/bgfx11lS3rUhYjqzu+urUY7ft09mhNzbV3HQ2ecb+j
+UZsLy5faeu40pISfSpLOtB3a2Tx6aPupwbSmzLBrcSP3syNOD54IYMsHgnWBuwMq
+Yt2fj5yrupd3Yesx17bGjKrAaYPBt94aU/NlQr/Q4p3oSdzwmnms/anR1PvR7QVk
+vHZKGdy2KiBu96U8xt172LmfRsaGZ4PXJW4ccD3y8GgZMue4X++KEt9M+LGsjmjO
+n5mW9xSHXqjsbOkIif9lPlnx+Wvz8LkR8H4qNVZ7fnhl1nBeesbqhrsVFy+2Ba9R
+CEtxaVfzyfxuoqToVc/D0IGDS9nh3MaTtaF299BbGfWtFVdj44/5Zd9E4j6Jb9vJ
+Vyfi0VHXmz/rmWvtdE8ef+z9ekaYPT4heehQe8YbaNmRzIWk0rz1h51199ZGutes
+n470GRkpRN57ETQ29UZXzy3Nt105sel8xz93lDRX8StzDyonW3eU9HS70guc0buu
+J6aWPO4vt35tFx/uSNl/84/BXRErXEmm8ImPu580XV3IHbJXJU3ZR0uP67v+bH77
+tvSk/Z3GtJ/c+0DPra6pL6IfTcxhL4DcvTdWZv12JOfKzNYHrllT7ZlUomni97AP
+kyM8e9In/1Zatix8893BeZ++T1fnni4ITdeXVVSFzdwNivU4g34e2PLr2Z7+wG/X
+SmeHUzoXQ7Iuj/qu+g+2n8Or
+=uVvS
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/naim
+
+==================================================================
+
